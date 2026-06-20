@@ -41,7 +41,7 @@ git commit -m "🚀 Feat: Implementación final del patrón MVC y documentación
 git branch -M main
 
 # Reemplaza la URL de abajo con la de tu repositorio real asignado
-URL_REPOSITORIO="https://github.com/lorddark2358-max/Juego-del-Ahorcado-by-Juan-Diego-Sarmiento-Esparza.git"
+URL_REPOSITORIO="https://github.com/lorddark2358-max/Juego-del-Ahorcado-by-Juan-Diego-Sarmiento-Esparza-MVC.git"
 
 git remote remove origin 2>/dev/null || git remote remove origin 2>/nul || true
 git remote add origin "$URL_REPOSITORIO"
