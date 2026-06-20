@@ -68,4 +68,4 @@ python main.py
 
 1. Guarda los contenidos anteriores en sus respectivos nombres de archivo dentro de tu carpeta de trabajo.
 2. Abre tu terminal de comandos dentro de la carpeta del proyecto.
-3. Ejecuta el script de automatización ejecutando: `bash antigravity_deploy.sh`
+3. Ejecuta el script de automatización ejecutando:
